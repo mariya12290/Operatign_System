@@ -1,2 +1,2 @@
-# Operatign_System
-A simple repo for operativ system 
+# Operating_System
+A simple repo for operating system 
